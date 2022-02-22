@@ -1,18 +1,26 @@
-<img align="right" width="300" height="100" src=https://camilolopes.files.wordpress.com/2009/04/javamysqleclipse.jpg>
-# Welcome!
+
+## Seja bem vindo(a) sou Carlos Rezende, estudante de análise e desenvolvimento de sistemas.
+ <div align="center">
+  <a href="https://github.com/carlos-rezende">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-rezende&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-rezende&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
-## I'm Carlos Rezende!
+ </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Carlos-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  </div>
+ ##
+<div> 
+  <a href = "mailto:contatocarlospqdt_21@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosrezendecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5521991967259&text=Olá! Seja bem vindo(a)" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
  
-… Estudante de Analise e Desenvolvimento de Sistemas / Java / MySql
- 
- 
- 
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlos-rezende)](https://github.com/carlos-rezende)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosrezendecampos/)](https://www.linkedin.com/in/carlosrezendecampos/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+021991967259&text=Olá!)](https://api.whatsapp.com/send?phone=55+021991967259&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlospqdt_21@hotmail.com)](mailto:carlospqdt_21@hotmail.com)
- 
-- Thanks for visiting. 
- 
-- Enjoy it!! o/
+ ![Snake animation](https://github.com/carlos-rezende/carlos-rezende/blob/output/github-contribution-grid-snake.svg)
+ </div>
