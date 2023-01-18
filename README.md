@@ -1,20 +1,23 @@
 
-## Seja bem vindo(a) sou Carlos Rezende, estudante de análise e desenvolvimento de sistemas.
+## Seja bem vindo(a) sou Carlos Rezende, desenvolvedor de sistemas junior.
  
  <div align="center">
-  <a href="https://github.com/carlos-rezende">
+  
+ <a href="https://github.com/carlos-rezende">
+   
   
 </div>
  
  </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   
+  <img align="center" alt="Carlos-bootstrap" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Carlos-HTML" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Carlos-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Carlos-laravel" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+ <img align="center" alt="carlos-figma" height = "30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   </div>
 
 ##
@@ -25,4 +28,5 @@
  <a href="https://api.whatsapp.com/send?phone=5521991967259&text=Olá! Seja bem vindo(a)" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
  
  ![Snake animation](https://github.com/carlos-rezende/carlos-rezende/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
