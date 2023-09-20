@@ -1,32 +1,41 @@
+# Perfil do Desenvolvedor - Carlos Eli Rezende
 
-<h1>Carlos Eli Rezende - Desenvolvedor de Software Junior</h1>.
+## Sobre mim
 
-<h2>Sou um desenvolvedor de software junior com pouco mais de 1 ano de experiência. Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas.</h2>
- 
- <div align="center">
-  
- <a href="https://github.com/carlos-rezende">
-     
-</div>
- 
- </div>
-<div style="display: inline_block"><br>
-   
-  <img align="center" alt="Carlos-bootstrap" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img align="center" alt="Carlos-laravel" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  </div>
+Olá! Sou Carlos Eli Rezende, um desenvolvedor de software Junior com um pouco mais de 1 ano de experiência em desenvolvimento. Minha paixão está em criar aplicativos web e soluções de software eficazes e elegantes. Tenho trabalhado principalmente com tecnologias como React, Tailwind CSS e MySQL.
 
-##
+## Experiência
 
-<div> 
-  <a href = "mailto:contatocarlospqdt_21@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosrezendecampos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5521991967259&text=Olá! Seja bem vindo(a)" target="_blank"><img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white target="_blank"></a>
- 
- ![Snake animation](https://github.com/carlos-rezende/carlos-rezende/blob/output/github-contribution-grid-snake.svg)
- 
- </div>
+- **Desenvolvedor de Software Junior** na Empresa Applus+
+  - *Período*: julho de 2022 - Presente
+  - Trabalhando em projetos web usando PHP e React para construir interfaces de usuário interativas e responsivas.
+  - Utilizando Tailwind CSS para agilizar o desenvolvimento de estilos e melhorar a estética das aplicações.
+  - Gerenciando bancos de dados MySQL para armazenar e recuperar dados de forma eficiente.
+
+<!--## Projetos Destacados
+
+- [Projeto XYZ](link-para-o-repositório) - Um aplicativo web desenvolvido em React que permite aos usuários fazerem XYZ.
+- [Projeto ABC](link-para-o-repositório) - Uma aplicação de gerenciamento de tarefas construída com React e Tailwind CSS.
+-->
+## Habilidades Técnicas
+
+- Linguagens de Programação: JavaScript
+- Frameworks/Libraries: React
+- CSS Frameworks: Tailwind CSS
+- Bancos de Dados: MySQL
+- Controle de Versão: Git
+
+## Contato
+
+- GitHub: [github.com/carlos-rezende](https://github.com/carlos-rezende)
+- LinkedIn: [linkedin.com/in/carlosrezendecampos](www.linkedin.com/in/carlosrezendecampos)
+- Email: carlospqdt_21@hotmail.com
+
+## Interesses
+
+- Desenvolvimento web
+- Front-end e UI/UX
+- Tecnologias emergentes e tendências da indústria
+- Aprendizado contínuo
+
+Se você quiser saber mais sobre mim ou entrar em contato para oportunidades de colaboração, fique à vontade para me contatar. Estou sempre em busca de desafios interessantes e oportunidades de crescimento na área de desenvolvimento de software.
