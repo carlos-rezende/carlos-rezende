@@ -19,11 +19,11 @@ Olá! Sou Carlos Eli Rezende, um desenvolvedor de software Junior com um pouco m
 -->
 ## Habilidades Técnicas
 
-- Linguagens de Programação: JavaScript
-- Frameworks/Libraries: React
+- Linguagens: PHP, React
+- Frameworks/Libraries: Next, Laravel, Bootstrap
 - CSS Frameworks: Tailwind CSS
 - Bancos de Dados: MySQL
-- Controle de Versão: Git
+- Controle de Versão: Git, Azure
 
 ## Contato
 
