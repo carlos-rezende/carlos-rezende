@@ -1,4 +1,4 @@
-# Perfil do Desenvolvedor - Carlos Eli Rezende
+# Carlos Eli Rezende
 
 ## Sobre mim
 
