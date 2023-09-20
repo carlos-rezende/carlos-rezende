@@ -1,11 +1,12 @@
 
-Carlos Rezende desenvolvedor de sistemas junior.
+<h1>Carlos Eli Rezende - Desenvolvedor de Software Junior</h1>.
+
+<h2>Sou um desenvolvedor de software junior com pouco mais de 1 ano de experiência. Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas.</h2>
  
  <div align="center">
   
  <a href="https://github.com/carlos-rezende">
-   
-  
+     
 </div>
  
  </div>
