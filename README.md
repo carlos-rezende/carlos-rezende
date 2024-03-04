@@ -2,15 +2,19 @@
 
 ## Sobre mim
 
-Olá! Sou Carlos Eli Rezende, um desenvolvedor de software Junior com um pouco mais de 1 ano de experiência em desenvolvimento. Minha paixão está em criar aplicativos web e soluções de software eficazes e elegantes. Tenho trabalhado principalmente com tecnologias como React, Tailwind CSS e MySQL.
+Sou Carlos Eli Rezende, desenvolvedor de software Junior em constante aprendizado.
+- React
+- Tailwind Css
+- MySQL
+- Atualmente aprendendo Django;
 
 ## Experiência
 
 - **Desenvolvedor de Software Junior** na Empresa Applus+
   - *Período*: julho de 2022 - Presente
-  - Trabalhando em projetos web usando PHP e React para construir interfaces de usuário interativas e responsivas.
-  - Utilizando Tailwind CSS para agilizar o desenvolvimento de estilos e melhorar a estética das aplicações.
-  - Gerenciando bancos de dados MySQL para armazenar e recuperar dados de forma eficiente.
+  - Manutenção de software ERP legado em PHP e Laravel
+  - Construindo um novo(FrontEnd) ERP em React, Tailwind CSS .
+  - Gerenciando bancos de dados MySQL.
 
 <!--## Projetos Destacados
 
@@ -34,8 +38,7 @@ Olá! Sou Carlos Eli Rezende, um desenvolvedor de software Junior com um pouco m
 ## Interesses
 
 - Desenvolvimento web
-- Front-end e UI/UX
-- Tecnologias emergentes e tendências da indústria
+- Front-end 
 - Aprendizado contínuo
 
 Se você quiser saber mais sobre mim ou entrar em contato para oportunidades de colaboração, fique à vontade para me contatar. Estou sempre em busca de desafios interessantes e oportunidades de crescimento na área de desenvolvimento de software.
