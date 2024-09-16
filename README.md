@@ -4,9 +4,13 @@
 
 Sou Carlos Eli Rezende, desenvolvedor de software Junior em constante aprendizado.
 - React
+- Python
 - Tailwind Css
 - MySQL
-- Atualmente aprendendo Django;
+- Atualmente aprendendo Django e FastAPI
+- streamlit
+- Tkinter
+  E o que for preciso, rsrsrs
 
 ## Experiência
 
@@ -38,7 +42,8 @@ Sou Carlos Eli Rezende, desenvolvedor de software Junior em constante aprendizad
 ## Interesses
 
 - Desenvolvimento web
-- Front-end 
+- Front-end
+- Back End
 - Aprendizado contínuo
 
 Se você quiser saber mais sobre mim ou entrar em contato para oportunidades de colaboração, fique à vontade para me contatar. Estou sempre em busca de desafios interessantes e oportunidades de crescimento na área de desenvolvimento de software.
