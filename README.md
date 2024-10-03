@@ -17,8 +17,7 @@ Sou Carlos Eli Rezende, desenvolvedor de software Junior em constante aprendizad
 - **Desenvolvedor de Software Junior** na Empresa Applus+
   - *Período*: julho de 2022 - Presente
   - Manutenção de software ERP legado em PHP e Laravel
-  - Construindo um novo(FrontEnd) ERP em React, Tailwind CSS .
-  - Gerenciando bancos de dados MySQL.
+  - Administrador de bancos de dados MySQL.
 
 <!--## Projetos Destacados
 
