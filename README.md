@@ -14,7 +14,7 @@ Sou Carlos Eli Rezende, desenvolvedor de software em constante aprendizado.
 
 ## Experiência
 
-- **Desenvolvedor de Software Junior** na Empresa Applus+
+- **Desenvolvedor de Software pleno** na Empresa Applus+
   - *Período*: julho de 2022 - Presente
   - Manutenção de software ERP legado em PHP e Laravel
   - Administrador de bancos de dados MySQL.
