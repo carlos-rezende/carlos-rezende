@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou Carlos Eli Rezende, desenvolvedor de software Junior em constante aprendizado.
+Sou Carlos Eli Rezende, desenvolvedor de software em constante aprendizado.
 - React
 - Python
 - Tailwind Css
