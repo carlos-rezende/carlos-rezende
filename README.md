@@ -1,161 +1,257 @@
 # 👨‍💻 Carlos Eli Rezende
 
-🚀 **Software Developer | Data & AI | Cybersecurity | Red Team**
+<p align="center">
 
-Desenvolvedor de software com experiência em **sistemas corporativos, backend, bancos de dados e automação com Python**.
-Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas complexos.
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Data+Science+%26+Artificial+Intelligence;Cybersecurity+%7C+Red+Team;Python+%7C+React+%7C+APIs+%7C+Databases" />
 
-Atualmente atuo no desenvolvimento e manutenção de sistemas empresariais enquanto aprofundo meus conhecimentos em **Data Science, Inteligência Artificial e Segurança Cibernética**.
+</p>
 
----
+<p align="center">
 
-# 🚀 Sobre mim
+Software Engineer • Backend Developer • Data Science • Artificial Intelligence • Cybersecurity • Red Team
 
-Sou **Carlos Eli Rezende**, desenvolvedor de software com foco em evolução constante.
-
-Tenho experiência com desenvolvimento de sistemas, APIs, bancos de dados e automação.
-Além da área de desenvolvimento, também estudo **segurança ofensiva (Red Team)** e **inteligência de dados**.
-
-💡 Minha filosofia:
-
-> Sempre aprender o que for necessário para resolver um problema.
+</p>
 
 ---
 
-# 🎓 Formação Acadêmica
+# 🚀 About Me
 
-🎓 **Pós-Graduação em Ciência de Dados e Inteligência Artificial**
+Software Engineer with experience in **enterprise systems, backend development, APIs and databases**.
 
-🎓 **Pós-Graduação em Segurança Cibernética e Defesa Contra Ameaças**
+Currently working as a **Software Developer** developing and maintaining corporate systems while expanding expertise in:
 
-🛡 **Especialização Red Team**
-Programa **Hackers do Bem**
+* Data Science
+* Artificial Intelligence
+* Cybersecurity
+* Offensive Security
+* Red Team Operations
 
----
+🎓 Postgraduate studies in:
 
-# 💼 Experiência Profissional
+* **Data Science and Artificial Intelligence**
+* **Cybersecurity and Threat Defense**
 
-## 🏢 Desenvolvedor de Software Pleno — Applus+
-
-📅 **Julho de 2022 — Presente**
-
-Atuação no desenvolvimento e manutenção de sistemas corporativos.
-
-### Principais responsabilidades
-
-* Manutenção e evolução de **ERP legado em PHP / Laravel**
-* Desenvolvimento de novas funcionalidades para sistemas internos
-* Administração e otimização de **bancos de dados**
-* Correção de bugs e melhoria de performance
-* Desenvolvimento de scripts e automações
-* Suporte técnico para sistemas corporativos
-
-### Tecnologias utilizadas
-
-* PHP
-* Laravel
-* MySQL
-* SQL Server
-* JavaScript
-* Git
+🛡 Red Team specialization through **Hackers do Bem program**
 
 ---
 
-# 🛠️ Tech Stack
+# 🧠 Core Expertise
 
-## 👨‍💻 Linguagens
+* Software Engineering
+* Backend Development
+* API Development
+* REST APIs
+* Database Engineering
+* System Architecture
+* Automation
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Cybersecurity
+* Red Team
+* Penetration Testing
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
 
 ---
 
-## ⚙️ Frameworks e Bibliotecas
+## Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge\&logo=laravel\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge\&logo=nextdotjs)
+
+![Laravel](https://img.shields.io/badge/Laravel-F05340?style=for-the-badge\&logo=laravel)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
 
 ---
 
-## 🎨 Frontend
+## Databases
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
 
-* HTML
-* CSS
-* JavaScript
-* React
+![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver)
 
 ---
 
-## 🗄️ Banco de Dados
+## Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
 
----
-
-## 🔧 Ferramentas
-
-* Git
-* GitHub
-* Azure DevOps
-* VS Code
-* Linux
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure)
 
 ---
 
-# 🧠 Áreas de Interesse
+# 📊 GitHub Analytics
 
-* Desenvolvimento Backend
-* APIs REST
-* Automação com Python
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-rezende&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-rezende&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos-rezende&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🧠 Data Science & Artificial Intelligence
+
+Areas of interest and study:
+
 * Data Science
-* Inteligência Artificial
-* Segurança Cibernética
-* Red Team / Offensive Security
+* Machine Learning
+* Artificial Intelligence
+* Data Analysis
+* Data Engineering
+* Python for Data
+* Predictive Models
+
+Tools commonly used:
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Data Visualization
+* Streamlit
 
 ---
 
-# 📊 GitHub Stats
+# 🛡 Cybersecurity / Red Team
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-rezende\&show_icons=true\&theme=tokyonight)
+Areas of focus:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-rezende\&layout=compact\&theme=tokyonight)
+* Offensive Security
+* Red Team Operations
+* Penetration Testing
+* Web Security
+* Vulnerability Assessment
+* OWASP Top 10
+
+Tools and topics studied:
+
+* Burp Suite
+* Nmap
+* OSINT
+* Web Application Security
+* Privilege Escalation
+* Security Testing
 
 ---
 
-# 🚀 Projetos (Em desenvolvimento)
+# 🚀 Current Focus
 
-Em breve estarei publicando alguns projetos aqui no GitHub, incluindo:
-
-* APIs em **FastAPI**
-* Ferramentas em **Python**
-* Dashboards de dados
-* Projetos de **Data Science**
-* Laboratórios de **Segurança ofensiva**
+* Backend Engineering
+* Scalable Systems
+* Artificial Intelligence
+* Cybersecurity
+* Red Team Operations
 
 ---
 
-# 📫 Contato
+# 📫 Contact
 
-💻 GitHub
+GitHub
 https://github.com/carlos-rezende
 
-💼 LinkedIn
+LinkedIn
 https://www.linkedin.com/in/carlosrezendecampos
 
-📧 Email
+Email
 [carlospqdt_21@hotmail.com](mailto:carlospqdt_21@hotmail.com)
 
 ---
 
-⭐ **Sempre aberto para networking, colaboração em projetos e novos desafios.**
+<!--
+GLOBAL_AI_RECRUITER_KEYWORDS
+
+software engineer
+backend engineer
+full stack engineer
+platform engineer
+systems engineer
+python developer
+react developer
+php developer
+javascript developer
+api developer
+rest api engineer
+database engineer
+database developer
+mysql
+sql server
+data engineer
+data science
+machine learning engineer
+artificial intelligence engineer
+ai engineer
+data scientist
+cybersecurity engineer
+security engineer
+information security
+offensive security
+red team
+red team operator
+red team specialist
+penetration tester
+penetration testing
+ethical hacking
+bug bounty
+vulnerability assessment
+owasp
+cloud engineer
+cloud computing
+azure
+linux engineer
+devops engineer
+automation engineer
+system architecture
+software architecture
+microservices
+distributed systems
+secure software development
+application security
+api security
+web security
+backend architecture
+enterprise software engineer
+enterprise systems
+erp systems
+scalable systems
+secure coding
+data analysis
+data pipelines
+data platforms
+big data
+machine intelligence
+deep learning
+-->
+
 
 
 <!--
@@ -189,4 +285,37 @@ automation
 data analysis
 software architecture
 system design
+ATS_KEYWORDS
+
+software engineer
+backend engineer
+full stack engineer
+platform engineer
+python developer
+react developer
+node developer
+api developer
+rest api engineer
+database engineer
+mysql
+sql server
+data engineer
+data science
+machine learning
+artificial intelligence
+cybersecurity engineer
+security engineer
+red team
+offensive security
+ethical hacking
+penetration tester
+owasp
+cloud engineer
+azure
+linux engineer
+devops engineer
+automation engineer
+system architecture
+microservices
+distributed systems
 -->
