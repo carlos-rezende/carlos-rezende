@@ -156,3 +156,37 @@ https://www.linkedin.com/in/carlosrezendecampos
 ---
 
 ⭐ **Sempre aberto para networking, colaboração em projetos e novos desafios.**
+
+
+<!--
+keywords:
+software engineer
+backend developer
+full stack developer
+python developer
+react developer
+api development
+rest api
+fastapi
+mysql
+sql server
+database engineer
+data science
+machine learning
+artificial intelligence
+cybersecurity
+offensive security
+red team
+penetration testing
+ethical hacking
+owasp
+cloud computing
+azure
+linux
+git
+devops
+automation
+data analysis
+software architecture
+system design
+-->
